@@ -1,0 +1,78 @@
+h1 {
+  margin-bottom: 0 !important;
+}
+
+.newBrand {
+  padding: 50px 0;
+}
+
+.about {
+  background-image: url("../assets/images/bgImage.png");
+  background-size: cover;
+  padding: 60px 0;
+}
+
+.wrapper {
+  flex-wrap: wrap;
+}
+
+.wrapper span {
+  padding: 10px 20px;
+  background: #0f0f0f;
+  text-transform: uppercase;
+  display: inline-block;
+  margin: 15px 0;
+  font-family: "PT Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 150%;
+  color: #d0d0d0;
+}
+
+.row {
+  margin-right: 0 !important;
+  margin-left: 0 !important;
+}
+
+.col-12 h1 {
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 32px;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.col-12 p {
+  font-family: "PT Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 150%;
+  color: #ffffff;
+  margin-top: 15px;
+}
+
+.col-12 form {
+  display: flex;
+  flex: 100%;
+  margin-top: 15px;
+}
+
+form input {
+  flex: 60%;
+  background: rgba(255, 255, 255, 0.4);
+  outline: none;
+  border: none;
+  padding: 5px;
+  color: white;
+}
+
+form button {
+  flex: 40%;
+  background: #0f0f0f;
+  border: none;
+  color: #d0d0d0;
+}

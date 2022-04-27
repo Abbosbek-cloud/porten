@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap");
+
+/* product styles */
+
+.product-img {
+  padding: 55px 23px;
+  background: #191b1c;
+}
+
+.product-name {
+  font-family: "Playfair Display" !important;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  color: #ffffff;
+  margin-top: 15px;
+}
+
+.product-price {
+  font-family: "Playfair Display" !important;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 21px;
+  color: #d0d0d0;
+  margin-top: 15px;
+}
+
+.product-img img {
+  width: 100%;
+}
